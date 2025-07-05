@@ -6,7 +6,7 @@ df = pd.read_csv('university_students.csv')
 age = df['Age']
 gpa = df['GPA']
 
-plt.bar(age, gpa)
+plt.plot(age, gpa)
 
 plt.title('GPA vs Age')
 plt.xlabel('Age')
