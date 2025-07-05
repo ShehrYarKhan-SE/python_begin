@@ -1,1 +1,1 @@
-# python_begin
+# Learning python for AI
